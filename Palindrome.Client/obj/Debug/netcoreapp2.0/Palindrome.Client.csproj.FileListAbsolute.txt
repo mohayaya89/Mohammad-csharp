@@ -1,0 +1,14 @@
+C:\Revature\dotnet\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.0\Palindrome.Client.deps.json
+C:\Revature\dotnet\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.0\Palindrome.Client.runtimeconfig.json
+C:\Revature\dotnet\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.0\Palindrome.Client.runtimeconfig.dev.json
+C:\Revature\dotnet\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.0\Palindrome.Client.dll
+C:\Revature\dotnet\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.0\Palindrome.Client.pdb
+C:\Revature\dotnet\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.0\Palindrome.Library.dll
+C:\Revature\dotnet\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.0\Palindrome.Library.pdb
+C:\Revature\dotnet\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.0\Palindrome.Client.csprojAssemblyReference.cache
+C:\Revature\dotnet\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.0\Palindrome.Client.csproj.CoreCompileInputs.cache
+C:\Revature\dotnet\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.0\Palindrome.Client.AssemblyInfoInputs.cache
+C:\Revature\dotnet\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.0\Palindrome.Client.AssemblyInfo.cs
+C:\Revature\dotnet\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.0\Palindrome.Client.csproj.CopyComplete
+C:\Revature\dotnet\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.0\Palindrome.Client.dll
+C:\Revature\dotnet\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.0\Palindrome.Client.pdb

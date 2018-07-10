@@ -1,0 +1,9 @@
+C:\Revature\dotnet\Palindrome\Palindrome.Library\bin\Debug\netstandard2.0\Palindrome.Library.deps.json
+C:\Revature\dotnet\Palindrome\Palindrome.Library\bin\Debug\netstandard2.0\Palindrome.Library.dll
+C:\Revature\dotnet\Palindrome\Palindrome.Library\bin\Debug\netstandard2.0\Palindrome.Library.pdb
+C:\Revature\dotnet\Palindrome\Palindrome.Library\obj\Debug\netstandard2.0\Palindrome.Library.csprojAssemblyReference.cache
+C:\Revature\dotnet\Palindrome\Palindrome.Library\obj\Debug\netstandard2.0\Palindrome.Library.csproj.CoreCompileInputs.cache
+C:\Revature\dotnet\Palindrome\Palindrome.Library\obj\Debug\netstandard2.0\Palindrome.Library.AssemblyInfoInputs.cache
+C:\Revature\dotnet\Palindrome\Palindrome.Library\obj\Debug\netstandard2.0\Palindrome.Library.AssemblyInfo.cs
+C:\Revature\dotnet\Palindrome\Palindrome.Library\obj\Debug\netstandard2.0\Palindrome.Library.dll
+C:\Revature\dotnet\Palindrome\Palindrome.Library\obj\Debug\netstandard2.0\Palindrome.Library.pdb
